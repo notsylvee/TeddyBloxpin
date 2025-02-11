@@ -1,7 +1,7 @@
 module.exports = {
     data: {
         name: "voiceline",
-        description: "Sends a random Red Teddy voiceline",
+        description: "Sends a random Teddy Bloxpin voiceline",
         "integration_types": [0, 1],
         "contexts": [0, 1, 2]
     },
