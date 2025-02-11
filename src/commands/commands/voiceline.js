@@ -18,7 +18,7 @@ module.exports = {
             ]
         } else {
             voicelines = [
-                "-# It's better to stay awake. You don't want to meet *her*, do you?",
+                "-# It's better to stay awake. You don't want to meet ***her***, do you?",
                 "-# Don't plug my nose, I'll start screaming! Hehe!",
                 "-# Things feel a lot more strange now, wouldn't you say?",
                 "-# My ligaments, all in place, it's better that way.",
