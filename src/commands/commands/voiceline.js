@@ -25,7 +25,7 @@ module.exports = {
                 "-# Let's be friends in the next state of life.",
                 "-# I need a way out.",
                 "-# My heart rises and falls, all, day, long.",
-                "-# There's a little *smiling rock* inside all of us.",
+                "-# There's a little ***smiling rock*** inside all of us.",
                 "-# Trees grow in everyone's hearts.",
                 "-# I can't wait to go home with you, even if you never find it.",
                 "-# My button eyes distract me from seeing bad things.",
