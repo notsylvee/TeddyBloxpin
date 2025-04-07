@@ -1,3 +1,5 @@
+const fs = require("fs/promises");
+
 module.exports = {
     data: {
         name: "voiceline",
