@@ -1,0 +1,23 @@
+{
+    "voicelines": [
+        { "path": "time", "text": "I love spending time with you!" },
+        { "path": "friends", "text": "Let's be friends!" },
+        { "path": "friend", "text": "Will you be my friend?" },
+        { "path": "wub", "text": "I wub you!" },
+        { "path": "hug", "text": "I need a hug!" }
+    ],
+    "secret": [
+        { "path": "her", "text": "It's better to stay awake. You don't want to meet *her*, do you?" },
+        { "path": "nose", "text": "Don't plug my nose, I'll start screaming! Hehe!" },
+        { "path": "strange", "text": "Things feel a lot more strange now, wouldn't you say?" },
+        { "path": "ligaments", "text": "My ligaments, all in place, it's better that way." },
+        { "path": "life", "text": "Let's be friends in the next state of life." },
+        { "path": "out", "text": "I need a way out." },
+        { "path": "heart", "text": "My heart rises and falls, all, day, long." },
+        { "path": "smilingrock", "text": "There's a little *smiling rock* inside all of us." },
+        { "path": "trees", "text": "Trees grow in everyone's hearts." },
+        { "path": "home", "text": "I can't wait to go home with you, even if you never find it." },
+        { "path": "button", "text": "My button eyes distract me from seeing bad things." },
+        { "path": "agonizing", "text": "I love spending time in this agonizing rectangle with you." }
+    ]
+}
